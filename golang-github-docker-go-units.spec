@@ -4,7 +4,7 @@
 #
 Name     : golang-github-docker-go-units
 Version  : 5d2041e26a699eaca682e2ea41c8f891e1060444
-Release  : 3
+Release  : 4
 URL      : https://github.com/docker/go-units/archive/5d2041e26a699eaca682e2ea41c8f891e1060444.tar.gz
 Source0  : https://github.com/docker/go-units/archive/5d2041e26a699eaca682e2ea41c8f891e1060444.tar.gz
 Summary  : No detailed summary available
